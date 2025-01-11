@@ -1,4 +1,5 @@
 # Image Segmentation for Water Contamination Measurement
+<img width="680" alt="" src="https://github.com/user-attachments/assets/b6e47536-a7c9-4bc8-a9da-6a94449f84d8" />
 
 This project aims to segment water channels to measure water contamination due to trash. The model used in this project is a Convolutional Neural Network (CNN) built with Keras and TensorFlow. The model is trained to classify each pixel of an image into one of three classes: water, trash, or other.
 
